@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=5D30FF&fontColor=5D30FF&fontSize=30&fontAlign=50&fontAlignY=30&height=150&animation=fadeIn&)
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=80B2E0&height=150&section=footer"/>
+</div>
