@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=80B2E0&height=150&section=footer"/>
-</div>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=5D30FF&text=✨Welcome+to+Darrang's+World✨&fontColor=5D30FF&fontSize=30&fontAlign=50&fontAlignY=30&height=150&animation=fadeIn&)
+
