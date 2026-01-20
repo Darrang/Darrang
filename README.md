@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5D30FF&height=150&section=footer"/>
 </div>
